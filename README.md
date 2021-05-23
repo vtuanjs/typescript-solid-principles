@@ -14,7 +14,14 @@ npm run build
 npm run start
 
 ## Architecture
-![alt text](docs/architecture.jpg)
+
+<p align="center">
+  <img src="docs/clean-architecture.jpg" />
+</p>
+
+<p align="center">
+  <img src="docs/architecture.jpg" />
+</p>
 
 ## FLOW
 
