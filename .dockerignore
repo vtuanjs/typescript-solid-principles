@@ -1,0 +1,16 @@
+.vscode/
+/configs
+node_modules/
+.dockerignore
+.gitignore
+docker_*.sh
+Dockerfile
+*.md
+**/test/
+.env
+docker-compose.*
+deploy/
+dist/
+logs/
+.eslintrc
+resources
