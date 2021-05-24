@@ -1,16 +1,20 @@
 # NODEJS ARCHITECTURE WITH SOLID PRINCIPLES 
 
 ## Running
-### 1. Testing
+### 1. Install Package
+- npm install
+- npm install -D @types/express @types/mongoose
+
+### 2. Testing
 npm run test
 
-### 2. Run in development mode
+### 3. Run in development mode
 npm run dev
 
-### 3. Build
+### 4. Build
 npm run build
 
-### 4. Run in production mode
+### 5. Run in production mode
 npm run start
 
 ## Architecture
